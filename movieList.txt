@@ -1,0 +1,19 @@
+101;Doctor Strange in the Multiverse of Madness;2022;8.9;R
+102;Spider-Man: No Way Home;2021;8.8;PG-13
+103;The Matrix Resurrections;2021;5.7;R
+104;Shang-Chi and the Legend of the Ten Rings;2021;7.5;PG-13
+105;Venom: Let There Be Carnage;2021;6.0;PG-13
+106;Deadpool 2;2018;7.7;R
+107;Don't Look Up;2021;7.3;R
+108;Zack Snyder's Justice League;2021;8.1;R
+109;No Time to Die;2021;7.4;PG-13
+110;The Suicide Squad;2021;7.2;R
+111;Tenet;2020;7.4;PG-13
+112;Dune;2021;8.2;PG-13
+113;Nobody;2021;7.4;R
+114;Mortal Kombat;2021;6.1;R
+115;Wrath of Man;2021;7.1;R
+116;Red Notice;2021;6.4;PG-13
+117;Hitman's Wife's Bodyguard;2021;6.1;R
+118;Without Remorse;2021;5.8;R
+119;Army of the Dead;2021;5.7;R
